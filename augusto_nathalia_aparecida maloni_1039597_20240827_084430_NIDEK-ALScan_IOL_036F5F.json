@@ -1,0 +1,1165 @@
+{
+  "Ophthalmology": {
+    "Common": {
+      "Company": "NIDEK",
+      "ModelName": "AL-Scan",
+      "MachineNo": "140351",
+      "ROMVersion": "1.12.02/10/12/10",
+      "Version": "1.3",
+      "Date": "2024-08-27",
+      "Time": "08:44:30",
+      "Patient": {
+        "No.": "",
+        "ID": "1039597",
+        "FirstName": "nathalia",
+        "MiddleName": "aparecida maloni",
+        "LastName": "augusto",
+        "Sex": "F",
+        "Age": "",
+        "DOB": "1947-05-04",
+        "NameJ1": "",
+        "NameJ2": "",
+        "Memo": ""
+      },
+      "Operator": {
+        "No.": "5",
+        "ID": "Default"
+      }
+    },
+    "Measure": {
+      "$": {
+        "type": "IOL"
+      },
+      "VD": {
+        "_": "12.00",
+        "$": {
+          "unit": "mm"
+        }
+      },
+      "DiopterStep": {
+        "_": "0.01",
+        "$": {
+          "unit": "D"
+        }
+      },
+      "AxisStep": {
+        "_": "1",
+        "$": {
+          "unit": "deg"
+        }
+      },
+      "CylinderMode": "-",
+      "IOL": {
+        "R": {
+          "SelectData": "Optical",
+          "SelectDataACD": "Optical",
+          "Optical": {
+            "AxialLength": {
+              "_": "23.73",
+              "$": {
+                "unit": "mm",
+                "change": "off",
+                "errordata": ""
+              }
+            },
+            "AxialLengthSNR": {
+              "_": "13.7",
+              "$": {
+                "change": "off"
+              }
+            },
+            "AxialLengthOffset": {
+              "_": "-0.20",
+              "$": {
+                "unit": "mm",
+                "change": "off"
+              }
+            },
+            "ACD": {
+              "_": "2.70",
+              "$": {
+                "unit": "mm",
+                "change": "off",
+                "errordata": ""
+              }
+            }
+          },
+          "Ultrasound": {
+            "AxialLength": "",
+            "AxialLengthOffset": "",
+            "ACD": "",
+            "Immersion": "",
+            "Operator": {
+              "No.": "",
+              "ID": ""
+            }
+          },
+          "KM": [
+            {
+              "$": {
+                "condition": "Φ2.4mm"
+              },
+              "R1": {
+                "Radius": {
+                  "_": "8.15",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "41.41",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "85",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "R2": {
+                "Radius": {
+                  "_": "8.00",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "42.19",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "175",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "Average": {
+                "Radius": {
+                  "_": "8.08",
+                  "$": {
+                    "unit": "mm"
+                  }
+                },
+                "Power": {
+                  "_": "41.80",
+                  "$": {
+                    "unit": "D"
+                  }
+                }
+              },
+              "Cylinder": {
+                "Power": {
+                  "_": "-0.78",
+                  "$": {
+                    "unit": "D"
+                  }
+                },
+                "Axis": {
+                  "_": "85",
+                  "$": {
+                    "unit": "deg"
+                  }
+                }
+              }
+            },
+            {
+              "$": {
+                "condition": "Φ3.3mm"
+              },
+              "R1": {
+                "Radius": {
+                  "_": "8.14",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "41.46",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "86",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "R2": {
+                "Radius": {
+                  "_": "8.03",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "42.03",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "176",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "Average": {
+                "Radius": {
+                  "_": "8.09",
+                  "$": {
+                    "unit": "mm"
+                  }
+                },
+                "Power": {
+                  "_": "41.75",
+                  "$": {
+                    "unit": "D"
+                  }
+                }
+              },
+              "Cylinder": {
+                "Power": {
+                  "_": "-0.57",
+                  "$": {
+                    "unit": "D"
+                  }
+                },
+                "Axis": {
+                  "_": "86",
+                  "$": {
+                    "unit": "deg"
+                  }
+                }
+              }
+            }
+          ],
+          "Target": {
+            "_": "0.00",
+            "$": {
+              "unit": "D"
+            }
+          },
+          "EyeType": {
+            "_": "Phakic",
+            "$": {
+              "change": "off"
+            }
+          },
+          "RefractiveIndex": "1.3375",
+          "CamellinCalossi": {
+            "Sergery": "None",
+            "SIRC": "",
+            "LensThickness": {
+              "_": "4.00",
+              "$": {
+                "unit": "mm",
+                "change": "on"
+              }
+            }
+          }
+        },
+        "L": {
+          "SelectData": "Optical",
+          "SelectDataACD": "Optical",
+          "Optical": {
+            "AxialLength": {
+              "_": "23.52",
+              "$": {
+                "unit": "mm",
+                "change": "off",
+                "errordata": ""
+              }
+            },
+            "AxialLengthSNR": {
+              "_": "17.4",
+              "$": {
+                "change": "off"
+              }
+            },
+            "AxialLengthOffset": {
+              "_": "-0.20",
+              "$": {
+                "unit": "mm",
+                "change": "off"
+              }
+            },
+            "ACD": {
+              "_": "2.67",
+              "$": {
+                "unit": "mm",
+                "change": "off",
+                "errordata": ""
+              }
+            }
+          },
+          "Ultrasound": {
+            "AxialLength": "",
+            "AxialLengthOffset": "",
+            "ACD": "",
+            "Immersion": "",
+            "Operator": {
+              "No.": "",
+              "ID": ""
+            }
+          },
+          "KM": [
+            {
+              "$": {
+                "condition": "Φ2.4mm"
+              },
+              "R1": {
+                "Radius": {
+                  "_": "8.14",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "41.46",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "93",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "R2": {
+                "Radius": {
+                  "_": "7.91",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "42.67",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "3",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "Average": {
+                "Radius": {
+                  "_": "8.03",
+                  "$": {
+                    "unit": "mm"
+                  }
+                },
+                "Power": {
+                  "_": "42.06",
+                  "$": {
+                    "unit": "D"
+                  }
+                }
+              },
+              "Cylinder": {
+                "Power": {
+                  "_": "-1.21",
+                  "$": {
+                    "unit": "D"
+                  }
+                },
+                "Axis": {
+                  "_": "93",
+                  "$": {
+                    "unit": "deg"
+                  }
+                }
+              }
+            },
+            {
+              "$": {
+                "condition": "Φ3.3mm"
+              },
+              "R1": {
+                "Radius": {
+                  "_": "8.11",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "41.62",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "94",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "R2": {
+                "Radius": {
+                  "_": "7.93",
+                  "$": {
+                    "unit": "mm",
+                    "change": "off"
+                  }
+                },
+                "Power": {
+                  "_": "42.56",
+                  "$": {
+                    "unit": "D",
+                    "change": "off"
+                  }
+                },
+                "Axis": {
+                  "_": "4",
+                  "$": {
+                    "unit": "deg",
+                    "change": "off"
+                  }
+                }
+              },
+              "Average": {
+                "Radius": {
+                  "_": "8.02",
+                  "$": {
+                    "unit": "mm"
+                  }
+                },
+                "Power": {
+                  "_": "42.09",
+                  "$": {
+                    "unit": "D"
+                  }
+                }
+              },
+              "Cylinder": {
+                "Power": {
+                  "_": "-0.94",
+                  "$": {
+                    "unit": "D"
+                  }
+                },
+                "Axis": {
+                  "_": "94",
+                  "$": {
+                    "unit": "deg"
+                  }
+                }
+              }
+            }
+          ],
+          "Target": {
+            "_": "0.00",
+            "$": {
+              "unit": "D"
+            }
+          },
+          "EyeType": {
+            "_": "Phakic",
+            "$": {
+              "change": "off"
+            }
+          },
+          "RefractiveIndex": "1.3375",
+          "CamellinCalossi": {
+            "Sergery": "None",
+            "SIRC": "",
+            "LensThickness": {
+              "_": "4.00",
+              "$": {
+                "unit": "mm",
+                "change": "on"
+              }
+            }
+          }
+        },
+        "ViewPattern": "2x2",
+        "IOLList": [
+          {
+            "$": {
+              "No": "1"
+            },
+            "Formula": "Haigis",
+            "ModelName": "MA60AC",
+            "Manufacture": "ALCON",
+            "Aconst": "",
+            "pACD": "",
+            "SF": "",
+            "a0": {
+              "_": "0.229",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a1": {
+              "_": "0.011",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a2": {
+              "_": "0.205",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "R": {
+              "IOLPower": {
+                "_": "23.08",
+                "$": {
+                  "unit": "D"
+                }
+              },
+              "ListNumber": "7",
+              "List": [
+                {
+                  "$": {
+                    "No": "1"
+                  },
+                  "IOLPower": {
+                    "_": "21.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "1.10",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "2"
+                  },
+                  "IOLPower": {
+                    "_": "22.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.76",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "3"
+                  },
+                  "IOLPower": {
+                    "_": "22.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.41",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "4"
+                  },
+                  "IOLPower": {
+                    "_": "23.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.06",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "5"
+                  },
+                  "IOLPower": {
+                    "_": "23.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.30",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "6"
+                  },
+                  "IOLPower": {
+                    "_": "24.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.66",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "7"
+                  },
+                  "IOLPower": {
+                    "_": "24.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-1.03",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "$": {
+              "No": "2"
+            },
+            "Formula": "Haigis",
+            "ModelName": "MA60AC",
+            "Manufacture": "ALCON",
+            "Aconst": "",
+            "pACD": "",
+            "SF": "",
+            "a0": {
+              "_": "0.229",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a1": {
+              "_": "0.011",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a2": {
+              "_": "0.205",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "R": {
+              "IOLPower": {
+                "_": "23.08",
+                "$": {
+                  "unit": "D"
+                }
+              },
+              "ListNumber": "7",
+              "List": [
+                {
+                  "$": {
+                    "No": "1"
+                  },
+                  "IOLPower": {
+                    "_": "21.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "1.10",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "2"
+                  },
+                  "IOLPower": {
+                    "_": "22.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.76",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "3"
+                  },
+                  "IOLPower": {
+                    "_": "22.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.41",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "4"
+                  },
+                  "IOLPower": {
+                    "_": "23.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.06",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "5"
+                  },
+                  "IOLPower": {
+                    "_": "23.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.30",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "6"
+                  },
+                  "IOLPower": {
+                    "_": "24.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.66",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "7"
+                  },
+                  "IOLPower": {
+                    "_": "24.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-1.03",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "$": {
+              "No": "3"
+            },
+            "Formula": "Haigis",
+            "ModelName": "MA60AC",
+            "Manufacture": "ALCON",
+            "Aconst": "",
+            "pACD": "",
+            "SF": "",
+            "a0": {
+              "_": "0.229",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a1": {
+              "_": "0.011",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a2": {
+              "_": "0.205",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "L": {
+              "IOLPower": {
+                "_": "23.45",
+                "$": {
+                  "unit": "D"
+                }
+              },
+              "ListNumber": "7",
+              "List": [
+                {
+                  "$": {
+                    "No": "1"
+                  },
+                  "IOLPower": {
+                    "_": "22.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "1.01",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "2"
+                  },
+                  "IOLPower": {
+                    "_": "22.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.66",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "3"
+                  },
+                  "IOLPower": {
+                    "_": "23.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.31",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "4"
+                  },
+                  "IOLPower": {
+                    "_": "23.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.04",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "5"
+                  },
+                  "IOLPower": {
+                    "_": "24.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.40",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "6"
+                  },
+                  "IOLPower": {
+                    "_": "24.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.76",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "7"
+                  },
+                  "IOLPower": {
+                    "_": "25.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-1.13",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "$": {
+              "No": "4"
+            },
+            "Formula": "Haigis",
+            "ModelName": "MA60AC",
+            "Manufacture": "ALCON",
+            "Aconst": "",
+            "pACD": "",
+            "SF": "",
+            "a0": {
+              "_": "0.229",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a1": {
+              "_": "0.011",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "a2": {
+              "_": "0.205",
+              "$": {
+                "condition": "Optical",
+                "change": "on"
+              }
+            },
+            "L": {
+              "IOLPower": {
+                "_": "23.45",
+                "$": {
+                  "unit": "D"
+                }
+              },
+              "ListNumber": "7",
+              "List": [
+                {
+                  "$": {
+                    "No": "1"
+                  },
+                  "IOLPower": {
+                    "_": "22.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "1.01",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "2"
+                  },
+                  "IOLPower": {
+                    "_": "22.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.66",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "3"
+                  },
+                  "IOLPower": {
+                    "_": "23.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "0.31",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "4"
+                  },
+                  "IOLPower": {
+                    "_": "23.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.04",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "5"
+                  },
+                  "IOLPower": {
+                    "_": "24.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.40",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "6"
+                  },
+                  "IOLPower": {
+                    "_": "24.5",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-0.76",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                },
+                {
+                  "$": {
+                    "No": "7"
+                  },
+                  "IOLPower": {
+                    "_": "25.0",
+                    "$": {
+                      "unit": "D"
+                    }
+                  },
+                  "RefractivePower": {
+                    "_": "-1.13",
+                    "$": {
+                      "unit": "D"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
